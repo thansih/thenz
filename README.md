@@ -1,8 +1,7 @@
-# Tropicks-Static-website
+# Thenz-Static-website
 
 
 
 My Personal Website:
 
-
-https://thoufeeque-rahman.github.io/Tropicks-Static-website/
+https://thansih.github.io/thenz/
